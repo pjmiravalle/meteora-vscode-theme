@@ -1,2 +1,12 @@
-node_modules
-*.vsix
+.DS_Store
+.DS_Store?
+desktop.ini
+.com.apple.timemachine.supported
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+.vscode
+node_modules/
