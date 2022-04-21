@@ -1,0 +1,49 @@
+{
+    "name": "meteora",
+    "displayName": "Meteora",
+    "description": "A VS Code theme for those who love elegant dark themes that are easy on the eyes.",
+    "version": "0.0.1",
+    "publisher": "pjmiravalle",
+    "license": "MIT",
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "keywords": [
+        "theme",
+        "contract",
+        "dark",
+        "meteora",
+        "clean",
+        "elegant",
+        "blue",
+        "green",
+        "purple",
+        "pink"
+    ],
+    "icon": "icon.png",
+    "homepage": "https://github.com/pjmiravalle/meteora-vscode-theme",
+    "repository": {
+        "url": "https://github.com/pjmiravalle/meteora-vscode-theme",
+        "type": "git"
+    },
+    "bugs": {
+        "url": "https://github.com/pjmiravalle/meteora-vscode-theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#1f2335",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Meteora",
+                "uiTheme": "vs-dark",
+                "path": "./themes/meteora-color-theme.json"
+            }
+        ]
+    }
+}
