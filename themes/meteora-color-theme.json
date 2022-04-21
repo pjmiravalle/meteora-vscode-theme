@@ -22,6 +22,12 @@
         "property.defaultLibrary": {
             "foreground": "#97bef9"
         },
+        "selfParameter": {
+            "foreground": "#73DACA"
+        },
+        "selfParameter.declaration": {
+            "foreground": "#73DACA"
+        },
         "variable": {
             "foreground": "#97bef9"
         },
