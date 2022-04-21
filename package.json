@@ -44,6 +44,9 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/meteora-color-theme.json"
             }
+        ],
+        "markdown.previewStyles": [
+            "./dist/markdown.css"
         ]
     }
 }
