@@ -1,1 +1,0 @@
-- update git changed files color in sidebar
