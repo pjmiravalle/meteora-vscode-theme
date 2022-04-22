@@ -285,6 +285,11 @@
         "statusBarItem.prominentBackground": "#1b1e2e",
         "statusBarItem.prominentHoverBackground": "#282e44",
 
+        "symbolIcon.classForeground": "#73DACA",
+        "symbolIcon.functionForeground": "#f981d1",
+        "symbolIcon.methodForeground": "#f981d1",
+        "symbolIcon.variableForeground": "#97BEF9",
+
         "titleBar.activeForeground": "#7982a9",
         "titleBar.inactiveForeground": "#7982a9",
         "titleBar.activeBackground": "#1f2335",
