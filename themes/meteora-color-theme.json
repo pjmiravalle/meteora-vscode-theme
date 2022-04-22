@@ -288,6 +288,8 @@
         "symbolIcon.classForeground": "#73DACA",
         "symbolIcon.functionForeground": "#f981d1",
         "symbolIcon.methodForeground": "#f981d1",
+        "symbolIcon.moduleForeground": "#C0CAF5",
+        "symbolIcon.stringForeground": "#97BEF9",
         "symbolIcon.variableForeground": "#97BEF9",
 
         "titleBar.activeForeground": "#7982a9",
@@ -1255,7 +1257,7 @@
                 "punctuation.section"
             ],
             "settings": {
-                "foreground": "#9abdf5"
+                "foreground": "#C0CAF5" // #9adbf5
             }
         },
         {
