@@ -594,11 +594,20 @@
       }
     },
     {
-      "name": "Operator, Misc",
+      "name": "Operator",
       "scope": [
         "keyword.operator",
         "keyword.control.as",
-        "keyword.operator.bitwise.shift",
+        "keyword.operator.bitwise.shift"
+      ],
+      "settings": {
+        "foreground": "#b3bce5c1",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Misc",
+      "scope": [
         "punctuation",
         "text.html.twig meta.tag.inline.any.html",
         "meta.tag.template.value.twig meta.function.arguments.twig",
