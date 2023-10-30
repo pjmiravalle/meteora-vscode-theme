@@ -287,8 +287,8 @@
     "textLink.foreground": "#6183bb",
     "textLink.activeForeground": "#7dcfff",
     "textPreformat.foreground": "#9699a8",
-    "textBlockQuote.background": "#08080b",
-    "textCodeBlock.background": "#08080b",
+    "textBlockQuote.background": "#101013",
+    "textCodeBlock.background": "#101013",
     "textSeparator.foreground": "#363b54",
 
     "debugExceptionWidget.border": "#963c47",
