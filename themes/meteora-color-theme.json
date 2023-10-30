@@ -279,9 +279,9 @@
 
     "titleBar.activeForeground": "#787c99",
     "titleBar.inactiveForeground": "#787c99",
-    "titleBar.activeBackground": "#08080b",
-    "titleBar.inactiveBackground": "#08080b",
-    "titleBar.border": "#101014",
+    "titleBar.activeBackground": "#101013",
+    "titleBar.inactiveBackground": "#101013",
+    "titleBar.border": "#08080b",
 
     "walkThrough.embeddedEditorBackground": "#08080b",
     "textLink.foreground": "#6183bb",
