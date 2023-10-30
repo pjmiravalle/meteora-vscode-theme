@@ -123,6 +123,11 @@
     "scrollbarSlider.activeBackground": "#868bc422",
 
     "editorBracketHighlight.foreground1": "#A9B1D6",
+    "editorBracketHighlight.foreground2": "#A9B1D6",
+    "editorBracketHighlight.foreground3": "#A9B1D6",
+    "editorBracketHighlight.foreground4": "#A9B1D6",
+    "editorBracketHighlight.foreground5": "#A9B1D6",
+    "editorBracketHighlight.foreground6": "#A9B1D6",
     "editorBracketHighlight.unexpectedBracket.foreground": "#db4b4b",
 
     "editorBracketPairGuide.activeBackground1": "#698cd6",
