@@ -715,6 +715,13 @@
       }
     },
     {
+      "name": "Types",
+      "scope": ["support.type"],
+      "settings": {
+        "foreground": "#D667AA"
+      }
+    },
+    {
       "name": "Globals, PHP Constants, etc",
       "scope": [
         "constant.other.php",
