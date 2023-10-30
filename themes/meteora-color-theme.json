@@ -32,7 +32,7 @@
   "colors": {
     "foreground": "#787c99",
     "descriptionForeground": "#515670",
-    "focusBorder": "#545c7e33",
+    "focusBorder": "#00000000",
     "errorForeground": "#515670",
     "widget.shadow": "#ffffff00",
     "scrollbar.shadow": "#00000033",
