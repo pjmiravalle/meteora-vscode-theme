@@ -313,7 +313,8 @@
     "debugTokenExpression.number": "#ff9e64",
     "debugTokenExpression.error": "#bb616b",
 
-    "terminal.background": "#08080b",
+    "terminal.background": "#101013",
+    "terminal.border": "#ffffff0a",
     "terminal.foreground": "#787c99",
     "terminal.selectionBackground": "#515c7e30",
     // "terminalCursor.background": "",
