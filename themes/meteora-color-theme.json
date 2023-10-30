@@ -4,6 +4,26 @@
   "type": "dark",
   "semanticClass": "meteora",
   "semanticTokenColors": {
+    "*.defaultLibrary": {
+      "foreground": "#2ac3de"
+    },
+    "boolean": {
+      "foreground": "#fca26e"
+    },
+    "comment": {
+      "foreground": "#444B6A",
+      "fontStyle": "italic"
+    },
+    "enumMember": {
+      "foreground": "#fca26e"
+    },
+    "function": {
+      "foreground": "#7AA2F7"
+    },
+    "keyword": {
+      "foreground": "#BB9AF7",
+      "fontStyle": "italic"
+    },
     "parameter.declaration": {
       "foreground": "#e0af68"
     },
@@ -16,8 +36,18 @@
     "property.defaultLibrary": {
       "foreground": "#2ac3de"
     },
-    "*.defaultLibrary": {
-      "foreground": "#2ac3de"
+    "interface": {
+      "foreground": "#0DB9D7",
+      "fontStyle": "italic"
+    },
+    "macro": {
+      "foreground": "#7AA2F7"
+    },
+    "method": {
+      "foreground": "#7AA2F7"
+    },
+    "namespace": {
+      "foreground": "#bdc7f2"
     },
     "variable.declaration": {
       "foreground": "#bdc7f2"
