@@ -76,12 +76,11 @@
     "dropdown.background": "#14141b",
     "dropdown.listBackground": "#14141b",
 
-    "activityBar.background": "#08080b",
+    "activityBar.activeBorder": "#3d59a1",
+    "activityBar.background": "#101013",
+    "activityBar.border": "#ffffff0a",
     "activityBar.foreground": "#787c99",
-    //"activityBar.activeBorder": "#3b3e52",
-    //"activityBar.activeBackground": "#101014",
     "activityBar.inactiveForeground": "#3b3e52",
-    "activityBar.border": "#08080b",
     "activityBarBadge.background": "#3d59a1",
     "activityBarBadge.foreground": "#fff",
 
