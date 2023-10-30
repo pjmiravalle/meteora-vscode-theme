@@ -3,62 +3,6 @@
   "author": "pjmiravalle",
   "type": "dark",
   "semanticClass": "meteora",
-  "semanticTokenColors": {
-    "*.defaultLibrary": {
-      "foreground": "#2ac3de"
-    },
-    "boolean": {
-      "foreground": "#fca26e"
-    },
-    "comment": {
-      "foreground": "#444B6A",
-      "fontStyle": "italic"
-    },
-    "enumMember": {
-      "foreground": "#fca26e"
-    },
-    "function": {
-      "foreground": "#7AA2F7"
-    },
-    "keyword": {
-      "foreground": "#BB9AF7",
-      "fontStyle": "italic"
-    },
-    "parameter.declaration": {
-      "foreground": "#e0af68"
-    },
-    "parameter": {
-      "foreground": "#d9d4cd"
-    },
-    "property.declaration": {
-      "foreground": "#73daca"
-    },
-    "property.defaultLibrary": {
-      "foreground": "#2ac3de"
-    },
-    "interface": {
-      "foreground": "#0DB9D7",
-      "fontStyle": "italic"
-    },
-    "macro": {
-      "foreground": "#7AA2F7"
-    },
-    "method": {
-      "foreground": "#7AA2F7"
-    },
-    "namespace": {
-      "foreground": "#bdc7f2"
-    },
-    "variable.declaration": {
-      "foreground": "#bdc7f2"
-    },
-    "variable": {
-      "foreground": "#bdc7f2"
-    },
-    "variable.defaultLibrary": {
-      "foreground": "#bdc7f2"
-    }
-  },
   "colors": {
     "foreground": "#787c99",
     "descriptionForeground": "#515670",
@@ -417,6 +361,62 @@
     "menu.separatorBackground": "#101014",
     "menu.border": "#101014"
   },
+  "semanticTokenColors": {
+    "*.defaultLibrary": {
+      "foreground": "#2ac3de"
+    },
+    "boolean": {
+      "foreground": "#fca26e"
+    },
+    "comment": {
+      "foreground": "#444B6A",
+      "fontStyle": "italic"
+    },
+    "enumMember": {
+      "foreground": "#fca26e"
+    },
+    "function": {
+      "foreground": "#7AA2F7"
+    },
+    "keyword": {
+      "foreground": "#BB9AF7",
+      "fontStyle": "italic"
+    },
+    "parameter.declaration": {
+      "foreground": "#e0af68"
+    },
+    "parameter": {
+      "foreground": "#d9d4cd"
+    },
+    "property.declaration": {
+      "foreground": "#73daca"
+    },
+    "property.defaultLibrary": {
+      "foreground": "#2ac3de"
+    },
+    "interface": {
+      "foreground": "#0DB9D7",
+      "fontStyle": "italic"
+    },
+    "macro": {
+      "foreground": "#7AA2F7"
+    },
+    "method": {
+      "foreground": "#7AA2F7"
+    },
+    "namespace": {
+      "foreground": "#bdc7f2"
+    },
+    "variable.declaration": {
+      "foreground": "#bdc7f2"
+    },
+    "variable": {
+      "foreground": "#bdc7f2"
+    },
+    "variable.defaultLibrary": {
+      "foreground": "#bdc7f2"
+    }
+  },
   "tokenColors": [
     {
       "name": "Italics - Comments, Storage, Keyword Flow, Vue attributes, Decorators",
@@ -598,7 +598,6 @@
       "scope": [
         "keyword.operator",
         "keyword.control.as",
-        "keyword.other",
         "keyword.operator.bitwise.shift",
         "punctuation",
         "text.html.twig meta.tag.inline.any.html",
@@ -638,9 +637,15 @@
     },
     {
       "name": "Keyword",
-      "scope": ["keyword", "keyword.control", "keyword.other.important"],
+      "scope": [
+        "keyword",
+        "keyword.control",
+        "keyword.other",
+        "keyword.other.important"
+      ],
       "settings": {
-        "foreground": "#bb9af7"
+        "foreground": "#bb9af7",
+        "fontStyle": "italic"
       }
     },
     {
