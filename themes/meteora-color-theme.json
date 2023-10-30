@@ -511,14 +511,22 @@
     {
       "name": "String, Symbols",
       "scope": [
-        "string",
         "constant.other.symbol",
         "constant.other.key",
-        "meta.attribute-selector"
+        "meta.attribute-selector",
+        "punctuation.definition.string",
+        "string"
       ],
       "settings": {
         "fontStyle": "",
         "foreground": "#85d0b7"
+      }
+    },
+    {
+      "name": "String Quotes",
+      "scope": ["punctuation.definition.string"],
+      "settings": {
+        "fontStyle": "bold"
       }
     },
     {
@@ -613,7 +621,6 @@
         "meta.tag.template.value.twig meta.function.arguments.twig",
         "meta.directive.vue punctuation.separator.key-value.html",
         "punctuation.definition.constant.markdown",
-        "punctuation.definition.string",
         "punctuation.support.type.property-name",
         "text.html.vue-html meta.tag",
         "punctuation.definition.keyword",
