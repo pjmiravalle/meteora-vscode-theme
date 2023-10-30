@@ -11,7 +11,7 @@
     "widget.shadow": "#ffffff00",
     "scrollbar.shadow": "#00000033",
     "badge.background": "#c49a5a1f",
-    "badge.foreground": "#c49a5a",
+    "badge.foreground": "#e0af68",
     "icon.foreground": "#787c99",
     "settings.headerForeground": "#6183bb",
     "window.activeBorder": "#0d0f17",
