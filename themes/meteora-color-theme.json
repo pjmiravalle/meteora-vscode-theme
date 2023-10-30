@@ -55,7 +55,7 @@
     "button.foreground": "#ffffff",
     "progressBar.background": "#3d59a1",
 
-    "input.background": "#14141b",
+    "input.background": "#15151b",
     "input.foreground": "#a9b1d6",
     "input.border": "#0f0f14",
     "input.placeholderForeground": "#787c998A",
