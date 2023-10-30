@@ -490,21 +490,22 @@
     {
       "name": "Number, Boolean, Undefined, Null",
       "scope": [
-        "variable.other.constant",
-        "punctuation.definition.constant",
         "constant.language",
-        "constant.numeric",
-        "support.constant"
-        // "constant.language.null",
+        "constant.language.null",
         // "constant.language.undefined",
         // "constant.language.go",
-        // "constant.language.boolean",
+        "constant.language.boolean",
+        "constant.language.bool",
         // "constant.language.json",
         // "constant.language.infinity",
-        // "constant.language.nan"
+        // "constant.language.nan",
+        "constant.numeric",
+        "punctuation.definition.constant",
+        "support.constant",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#c0768e"
+        "foreground": "#fca26e"
       }
     },
     {
