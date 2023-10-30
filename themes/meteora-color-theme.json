@@ -122,12 +122,7 @@
     "scrollbarSlider.hoverBackground": "#868bc410",
     "scrollbarSlider.activeBackground": "#868bc422",
 
-    "editorBracketHighlight.foreground1": "#698cd6", //"#7AA2F7",
-    "editorBracketHighlight.foreground2": "#68b3de", //"#7DCFFF",
-    "editorBracketHighlight.foreground3": "#9a7ecc", //"#BB9AF7",
-    "editorBracketHighlight.foreground4": "#25aac2", //"#2AC3DE",
-    "editorBracketHighlight.foreground5": "#80a856", //"#9ECE6A",
-    "editorBracketHighlight.foreground6": "#c49a5a", //"#e0af68",
+    "editorBracketHighlight.foreground1": "#A9B1D6",
     "editorBracketHighlight.unexpectedBracket.foreground": "#db4b4b",
 
     "editorBracketPairGuide.activeBackground1": "#698cd6",
@@ -219,6 +214,11 @@
     "editorCodeLens.foreground": "#484f70",
     "editorLightBulb.foreground": "#e0af68",
     "editorLightBulbAutoFix.foreground": "#e0af68",
+
+    "editorInlayHint.foreground": "#787C99",
+    "editorInlayHint.background": "#ffffff07",
+    "editorInlayHint.typeForeground": "#787C99",
+    "editorInlayHint.parameterForeground": "#787C99",
 
     "peekView.border": "#101014",
     "peekViewEditor.background": "#101013",
