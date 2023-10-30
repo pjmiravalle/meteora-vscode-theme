@@ -366,18 +366,6 @@
       "foreground": "#BB9AF7",
       "fontStyle": "italic"
     },
-    "parameter.declaration": {
-      "foreground": "#e0af68"
-    },
-    "parameter": {
-      "foreground": "#d9d4cd"
-    },
-    "property.declaration": {
-      "foreground": "#73daca"
-    },
-    "property.defaultLibrary": {
-      "foreground": "#2ac3de"
-    },
     "interface": {
       "foreground": "#0DB9D7",
       "fontStyle": "italic"
@@ -390,6 +378,18 @@
     },
     "namespace": {
       "foreground": "#bdc7f2"
+    },
+    "parameter.declaration": {
+      "foreground": "#e0af68"
+    },
+    "parameter": {
+      "foreground": "#d9d4cd"
+    },
+    "property.declaration": {
+      "foreground": "#73daca"
+    },
+    "property.defaultLibrary": {
+      "foreground": "#2ac3de"
     },
     "variable.declaration": {
       "foreground": "#bdc7f2"
