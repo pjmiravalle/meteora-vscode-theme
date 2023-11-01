@@ -44,7 +44,7 @@
     "button.hoverBackground": "#3d59a1AA",
 
     "charts.blue": "#7aa2f7",
-    "charts.foreground": "#9AA5CE",
+    "charts.foreground": "#a9b1d6",
     "charts.green": "#41a6b5",
     "charts.lines": "#08080b",
     "charts.orange": "#ff9e64",
@@ -64,7 +64,7 @@
     "debugTokenExpression.name": "#7dcfff",
     "debugTokenExpression.number": "#ff9e64",
     "debugTokenExpression.string": "#9ece6a",
-    "debugTokenExpression.value": "#9aa5ce",
+    "debugTokenExpression.value": "#a9b1d6",
     "debugToolBar.background": "#101014",
     "debugView.stateLabelForeground": "#787c99",
     "debugView.stateLabelBackground": "#14141b",
@@ -478,8 +478,7 @@
         // "constant.language.nan",
         "constant.numeric",
         "punctuation.definition.constant",
-        "support.constant",
-        "variable.other.constant"
+        "support.constant"
       ],
       "settings": {
         "foreground": "#fca26e"
@@ -513,7 +512,7 @@
         "constant.other.color.rgb-value.hex punctuation.definition.constant"
       ],
       "settings": {
-        "foreground": "#9aa5ce"
+        "foreground": "#a9b1d6"
       }
     },
     {
@@ -611,10 +610,10 @@
     {
       "name": "Import, Export, From, Default",
       "scope": [
-        "keyword.control.import",
-        "keyword.control.export",
-        "keyword.control.from",
-        "keyword.control.default",
+        // "keyword.control.import",
+        // "keyword.control.export",
+        // "keyword.control.from",
+        // "keyword.control.default",
         "meta.import keyword.other"
       ],
       "settings": {
@@ -624,10 +623,10 @@
     {
       "name": "Keyword",
       "scope": [
-        "keyword",
-        "keyword.control",
-        "keyword.other",
-        "keyword.other.important"
+        "keyword"
+        // "keyword.control",
+        // "keyword.other",
+        // "keyword.other.important"
       ],
       "settings": {
         "foreground": "#bb9af7",
@@ -810,17 +809,17 @@
         "foreground": "#bb9af7"
       }
     },
-    {
-      "name": "Variable Definition",
-      "scope": [
-        "meta.definition.variable variable.other.constant",
-        "meta.definition.variable variable.other.readwrite",
-        "variable.other.declaration"
-      ],
-      "settings": {
-        "foreground": "#bb9af7"
-      }
-    },
+    // {
+    //   "name": "Variable Definition",
+    //   "scope": [
+    //     "meta.definition.variable variable.other.constant",
+    //     "meta.definition.variable variable.other.readwrite",
+    //     "variable.other.declaration"
+    //   ],
+    //   "settings": {
+    //     "foreground": "#bb9af7"
+    //   }
+    // },
     {
       "name": "Inherited Class",
       "scope": "entity.other.inherited-class",
@@ -1073,7 +1072,7 @@
         "foreground": "#9abdf5"
       }
     },
-     {
+    {
       "name": "CSS Tag",
       "scope": "entity.name.tag.css",
       "settings": {
@@ -1135,7 +1134,7 @@
       "name": "HTML text",
       "scope": ["text.html", "text.log"],
       "settings": {
-        "foreground": "#9aa5ce"
+        "foreground": "#a9b1d6"
       }
     },
     {
@@ -1246,7 +1245,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#9aa5ce"
+        "foreground": "#a9b1d6"
       }
     },
     {
