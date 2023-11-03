@@ -10,7 +10,7 @@ This theme is very much in alpha development, and is expected to not look polish
 
 | Color                                                                       | Usage                               |
 | --------------------------------------------------------------------------- | ----------------------------------- |
-| ![#D667AA](https://place-hold.it/15/D667AA/D667AA?text=+) `#D667AA`         | Types, Pointers, References         |
+| ![#e961b3](https://place-hold.it/15/e961b3/e961b3?text=+) `#D667AA`         | Types, Pointers, References         |
 | ![#F7768E](https://place-hold.it/15/F7768E/F7768E?text=+) `#F7768E`         | HTML Tags                           |
 | ![#85D0B7](https://place-hold.it/15/85D0B7/85D0B7?text=+) `#85D0B7`         | Strings                             |
 | ![#FCA26E](https://place-hold.it/15/FCA26E/FCA26E?text=+) `#FCA26E`         | Numbers, Booleans                   |
