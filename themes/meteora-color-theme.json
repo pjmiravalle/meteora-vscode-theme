@@ -72,7 +72,7 @@
     "diffEditor.insertedLineBackground": "#0ed07231",
     "diffEditor.insertedTextBackground": "#0ed0721c",
     "diffEditor.removedLineBackground": "#ff00002b",
-    "diffEditor.removedTextBackground": "#ff00001a",
+    "diffEditor.removedTextBackground": "#ff000010",
 
     "dropdown.background": "#14141b",
     "dropdown.foreground": "#787c99",
