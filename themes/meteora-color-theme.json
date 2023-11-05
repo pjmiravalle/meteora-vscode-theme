@@ -167,6 +167,9 @@
     "extensionButton.prominentForeground": "#ffffff",
     "extensionBadge.remoteBackground": "#3d59a1",
     "extensionBadge.remoteForeground": "#ffffff",
+    "extensionIcon.starForeground": "#ffac7c",
+    "extensionIcon.preReleaseForeground": "#ffac7c",
+    "extensionIcon.sponsorForeground": "#f981d1",
 
     "gitDecoration.addedResourceForeground": "#73DACA",
     "gitDecoration.conflictingResourceForeground": "#DE9062",
@@ -249,6 +252,7 @@
     "panel.background": "#101013",
     "panel.border": "#08080b",
     "panelInput.border": "#08080b",
+    "panelSection.border": "#ffffff16",
     "panelTitle.activeBorder": "#ffffff16",
     "panelTitle.activeForeground": "#787c99",
     "panelTitle.inactiveForeground": "#42465d",
