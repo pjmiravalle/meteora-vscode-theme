@@ -42,7 +42,7 @@ Please keep an eye out on these languages and frameworks having full support in 
 - Terraform
 - VUE
 
-## Color Palette
+## 🎨 Color Palette
 
 | Color                                                               | Usage                                   |
 | ------------------------------------------------------------------- | --------------------------------------- |
