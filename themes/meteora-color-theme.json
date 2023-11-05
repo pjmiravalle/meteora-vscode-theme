@@ -671,6 +671,22 @@
     },
 
     {
+      "name": "Log - Date",
+      "scope": ["log.date"],
+      "settings": {
+        "foreground": "#787C99"
+      }
+    },
+
+    {
+      "name": "Log - Info",
+      "scope": ["log.info"],
+      "settings": {
+        "foreground": "#7AA2F7"
+      }
+    },
+
+    {
       "name": "Markdown - Code Language",
       "scope": ["fenced_code.block.language.markdown"],
       "settings": {
