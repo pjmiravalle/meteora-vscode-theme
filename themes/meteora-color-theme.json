@@ -569,7 +569,7 @@
 
     {
       "name": "Property",
-      "scope": ["variable.other.property"],
+      "scope": ["meta.attribute", "variable.other.property"],
       "settings": {
         "foreground": "#7AA2F7"
       }
@@ -652,7 +652,6 @@
       "scope": [
         "entity.name.label",
         "entity.name.type.anchor",
-        "meta.attribute",
         "punctuation.definition.variable",
         "string.unquoted.argument",
         "variable",
