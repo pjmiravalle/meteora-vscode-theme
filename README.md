@@ -25,6 +25,6 @@ This theme is very much in alpha development, and is expected to not look polish
 | ![#15151B](https://place-hold.it/15/15151B/15151B?text=+) `#15151B` | Editor Background                       |
 | ![#101013](https://place-hold.it/15/101013/101013?text=+) `#101013` | Sidebar, Terminal Background            |
 
-## Credits
+## 🙌 Credits
 
 Inspired by the [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) theme, Meteora brings even further refinement and improvements to your coding experience.
