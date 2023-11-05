@@ -32,7 +32,8 @@
     "pink",
     "orange",
     "cyan",
-    "elegant"
+    "elegant",
+    "space"
   ],
   "contributes": {
     "themes": [
