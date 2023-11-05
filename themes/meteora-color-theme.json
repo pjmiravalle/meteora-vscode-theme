@@ -350,8 +350,6 @@
     "terminal.border": "#ffffff0a",
     "terminal.foreground": "#787c99",
     "terminal.selectionBackground": "#515c7e30",
-    // "terminalCursor.background": "",
-    // "terminalCursor.foreground": "",
 
     "terminal.ansiBlack": "#363b54",
     "terminal.ansiRed": "#f7768e",
@@ -673,54 +671,6 @@
     },
 
     {
-      "name": "TOML - Heading",
-      "scope": [
-        "support.type.property-name.table",
-        "support.type.property-name.array"
-      ],
-      "settings": {
-        "foreground": "#BB9AF7"
-      }
-    },
-
-    {
-      "name": "Tag",
-      "scope": ["entity.name.tag", "meta.tag", "support.class.component"],
-      "settings": {
-        "foreground": "#f7768e"
-      }
-    },
-
-    {
-      "name": "Tag - Attribute",
-      "scope": [
-        "entity.other.attribute-name",
-        "text.html.basic entity.other.attribute-name.html",
-        "text.html.basic entity.other.attribute-name"
-      ],
-      "settings": {
-        "foreground": "#BB9AF7",
-        "fontStyle": "italic"
-      }
-    },
-
-    {
-      "name": "Tag - Attribute Value",
-      "scope": ["meta.tag string"],
-      "settings": {
-        "foreground": "#85D0B7"
-      }
-    },
-
-    {
-      "name": "Tag - Punctuation",
-      "scope": ["punctuation.definition.tag"],
-      "settings": {
-        "foreground": "#ba3c97"
-      }
-    },
-
-    {
       "name": "Markdown - Code Language",
       "scope": ["fenced_code.block.language.markdown"],
       "settings": {
@@ -850,6 +800,54 @@
       "scope": ["markup.italic.markdown"],
       "settings": {
         "fontStyle": "italic"
+      }
+    },
+
+    {
+      "name": "Tag",
+      "scope": ["entity.name.tag", "meta.tag", "support.class.component"],
+      "settings": {
+        "foreground": "#f7768e"
+      }
+    },
+
+    {
+      "name": "Tag - Attribute",
+      "scope": [
+        "entity.other.attribute-name",
+        "text.html.basic entity.other.attribute-name.html",
+        "text.html.basic entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "#BB9AF7",
+        "fontStyle": "italic"
+      }
+    },
+
+    {
+      "name": "Tag - Attribute Value",
+      "scope": ["meta.tag string"],
+      "settings": {
+        "foreground": "#85D0B7"
+      }
+    },
+
+    {
+      "name": "Tag - Punctuation",
+      "scope": ["punctuation.definition.tag"],
+      "settings": {
+        "foreground": "#ba3c97"
+      }
+    },
+
+    {
+      "name": "TOML - Heading",
+      "scope": [
+        "support.type.property-name.table",
+        "support.type.property-name.array"
+      ],
+      "settings": {
+        "foreground": "#BB9AF7"
       }
     }
   ]
