@@ -541,14 +541,6 @@
     },
 
     {
-      "name": "Object - Property",
-      "scope": ["variable.other.property"],
-      "settings": {
-        "foreground": "#7AA2F7"
-      }
-    },
-
-    {
       "name": "Operator",
       "scope": [
         "keyword.operator.access",
@@ -573,6 +565,14 @@
       "scope": ["meta.jsx.children", "text.html"],
       "settings": {
         "foreground": "#a6afd3"
+      }
+    },
+
+    {
+      "name": "Property",
+      "scope": ["variable.other.property"],
+      "settings": {
+        "foreground": "#7AA2F7"
       }
     },
 
@@ -722,7 +722,7 @@
       "name": "Markdown - Code Language",
       "scope": ["fenced_code.block.language.markdown"],
       "settings": {
-        "foreground": "#97BEF9",
+        "foreground": "#BB9AF7",
         "fontStyle": "italic"
       }
     },
@@ -731,7 +731,7 @@
       "name": "Markdown - Code Inline",
       "scope": ["markup.inline.raw.string.markdown"],
       "settings": {
-        "foreground": "#97BEF9",
+        "foreground": "#BB9AF7",
         "fontStyle": "italic"
       }
     },
@@ -743,7 +743,7 @@
         "punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#f7768e"
+        "foreground": "#7AA2F7"
       }
     },
 
@@ -754,7 +754,7 @@
         "string.other.link.description.markdown"
       ],
       "settings": {
-        "foreground": "#f981d1"
+        "foreground": "#89DDFF"
       }
     },
 
@@ -764,14 +764,6 @@
         "markup.underline.link.markdown",
         "string.other.link.title.markdown"
       ],
-      "settings": {
-        "foreground": "#73DACA"
-      }
-    },
-
-    {
-      "name": "Markdown - Link Title",
-      "scope": [],
       "settings": {
         "foreground": "#73DACA"
       }
@@ -796,7 +788,7 @@
         "punctuation.definition.strikethrough.markdown"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#f7768e"
       }
     },
 
