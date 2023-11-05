@@ -2,8 +2,6 @@
   "name": "Meteora",
   "author": "pjmiravalle",
   "type": "dark",
-  "semanticClass": "meteora",
-  "semanticHighlighting": false,
   "colors": {
     // BEGIN: Miscellaneous
     "descriptionForeground": "#515670",
@@ -369,62 +367,6 @@
     "terminal.ansiBrightMagenta": "#BB9AF7",
     "terminal.ansiBrightCyan": "#7dcfff",
     "terminal.ansiBrightWhite": "#b4bcde"
-  },
-  "semanticTokenColors": {
-    // "*.defaultLibrary": {
-    //   "foreground": "#2ac3de"
-    // },
-    // "boolean": {
-    //   "foreground": "#fca26e"
-    // },
-    // "comment": {
-    //   "foreground": "#444B6A",
-    //   "fontStyle": "italic"
-    // },
-    // "enumMember": {
-    //   "foreground": "#fca26e"
-    // },
-    // "function": {
-    //   "foreground": "#7AA2F7"
-    // },
-    // "keyword": {
-    //   "foreground": "#BB9AF7",
-    //   "fontStyle": "italic"
-    // },
-    // "interface": {
-    //   "foreground": "#0DB9D7",
-    //   "fontStyle": "italic"
-    // },
-    // "macro": {
-    //   "foreground": "#7AA2F7"
-    // },
-    // "method": {
-    //   "foreground": "#7AA2F7"
-    // },
-    // "namespace": {
-    //   "foreground": "#bdc7f2"
-    // },
-    // "parameter.declaration": {
-    //   "foreground": "#e0af68"
-    // },
-    // "parameter": {
-    //   "foreground": "#d9d4cd"
-    // },
-    // "property.declaration": {
-    //   "foreground": "#73daca"
-    // },
-    // "property.defaultLibrary": {
-    //   "foreground": "#2ac3de"
-    // },
-    // "variable.declaration": {
-    //   "foreground": "#bdc7f2"
-    // },
-    // "variable": {
-    //   "foreground": "#bdc7f2"
-    // },
-    // "variable.defaultLibrary": {
-    //   "foreground": "#bdc7f2"
-    // }
   },
   "tokenColors": [
     {
