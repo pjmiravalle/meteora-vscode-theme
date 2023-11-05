@@ -2,7 +2,7 @@
 
 **Meteora** is a refined [Visual Studio Code](https://code.visualstudio.com/) theme for those who love elegant dark themes that are easy on the eyes.
 
-## Disclaimer
+## 🚧 Disclaimer
 
 This theme is very much in alpha development, and is expected to not look polished for most programming languages at this time. Proceed with caution!
 
