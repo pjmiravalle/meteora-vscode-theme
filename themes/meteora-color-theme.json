@@ -152,6 +152,8 @@
     "editorOverviewRuler.deletedForeground": "#703438",
     "editorPane.background": "#15151b",
     "editorRuler.foreground": "#101014",
+    "editorStickyScroll.background": "#15151b9f",
+    "editorStickyScrollHover.background": "#1c1d297e",
     "editorSuggestWidget.background": "#08080b",
     "editorSuggestWidget.border": "#101014",
     "editorSuggestWidget.highlightForeground": "#6183bb",
