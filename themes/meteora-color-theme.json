@@ -72,7 +72,8 @@
     "diffEditor.removedLineBackground": "#ff00002b",
     "diffEditor.removedTextBackground": "#ff000010",
 
-    "dropdown.background": "#14141b",
+    "dropdown.background": "#15151b",
+    "dropdown.border": "#000000",
     "dropdown.foreground": "#787c99",
     "dropdown.listBackground": "#14141b",
 
@@ -182,7 +183,7 @@
     "gitlens.trailingLineForegroundColor": "#444b6a",
 
     "input.background": "#15151b",
-    "input.border": "#0f0f14",
+    "input.border": "#000000",
     "input.foreground": "#a9b1d6",
     "input.placeholderForeground": "#787c998A",
 
@@ -267,6 +268,13 @@
 
     "pickerGroup.border": "#101014",
     "pickerGroup.foreground": "#a9b1d6",
+
+    "settings.dropdownBackground": "#101013",
+    "settings.checkboxBackground": "#101013",
+    "settings.headerBorder": "#ffffff16",
+    "settings.modifiedItemIndicator": "#e0af68",
+    "settings.numberInputBackground": "#101013",
+    "settings.textInputBackground": "#101013",
 
     "sideBar.background": "#101013",
     "sideBar.border": "#08080b",
