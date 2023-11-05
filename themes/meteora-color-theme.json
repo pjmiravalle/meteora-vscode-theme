@@ -739,11 +739,8 @@
     },
 
     {
-      "name": "Markdown - Heading",
-      "scope": [
-        "entity.name.section.markdown",
-        "punctuation.definition.heading.markdown"
-      ],
+      "name": "Markdown - Heading ",
+      "scope": ["entity.name.section.markdown"],
       "settings": {
         "foreground": "#7AA2F7"
       }
