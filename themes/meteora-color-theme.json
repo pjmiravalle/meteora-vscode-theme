@@ -601,7 +601,7 @@
       "name": "String - Interpolation Punctuation",
       "scope": ["punctuation.definition.interpolation"],
       "settings": {
-        "foreground": "#89ddff"
+        "foreground": "#7dcfff"
       }
     },
 
@@ -713,7 +713,7 @@
       "name": "Markdown - Image Description",
       "scope": ["string.other.link.description.markdown"],
       "settings": {
-        "foreground": "#89ddff"
+        "foreground": "#7dcfff"
       }
     },
 
