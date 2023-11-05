@@ -664,7 +664,7 @@
       "name": "Markdown - Code Language",
       "scope": ["fenced_code.block.language.markdown"],
       "settings": {
-        "foreground": "#f981d1",
+        "foreground": "#7dcfff",
         "fontStyle": "italic"
       }
     },
@@ -673,7 +673,7 @@
       "name": "Markdown - Code Inline",
       "scope": ["markup.inline.raw.string.markdown"],
       "settings": {
-        "foreground": "#f981d1",
+        "foreground": "#7dcfff",
         "fontStyle": "italic"
       }
     },
@@ -714,7 +714,7 @@
       "name": "Markdown - Image Description",
       "scope": ["string.other.link.description.markdown"],
       "settings": {
-        "foreground": "#7dcfff"
+        "foreground": "#f981d1"
       }
     },
 
