@@ -27,4 +27,4 @@ This theme is very much in alpha development, and is expected to not look polish
 
 ## Credits
 
-Inspired by the original [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) theme, Meteora brings even further refinement and improvements to your coding experience.
+Inspired by the [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) theme, Meteora brings even further refinement and improvements to your coding experience.
