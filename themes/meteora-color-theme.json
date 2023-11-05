@@ -698,7 +698,7 @@
       "name": "Markdown - Heading 3",
       "scope": ["heading.3.markdown entity.name"],
       "settings": {
-        "foreground": "#97BEF9"
+        "foreground": "#7dcfff"
       }
     },
 
