@@ -6,6 +6,42 @@
 
 This theme is very much in alpha development, and is expected to not look polished for most programming languages at this time. Proceed with caution! 🚧
 
+## Language Support
+
+The following languages have been tested and are confirmed to have compatibility with Meteora.
+
+- Bash
+- CSS
+- HTML
+- JavaScript
+- JSON
+- Markdown
+- Rust
+- Shell
+- TOML
+- TypeScript
+- XML
+- YAML
+
+### Upcoming Support
+
+Please keep an eye out on these languages and frameworks having full support in the future as well!
+
+- C
+- C++
+- C#
+- Dart
+- Go
+- Java
+- PHP
+- Python
+- Ruby
+- SCSS
+- SQL
+- Swift
+- Terraform
+- VUE
+
 ## Color Palette
 
 | Color                                                               | Usage                                   |
