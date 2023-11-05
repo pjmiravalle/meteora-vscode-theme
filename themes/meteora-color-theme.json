@@ -632,6 +632,22 @@
     },
 
     {
+      "name": "String - Interpolation",
+      "scope": ["meta.interpolation"],
+      "settings": {
+        "foreground": "#97BEF9"
+      }
+    },
+
+    {
+      "name": "String - Interpolation Punctuation",
+      "scope": ["punctuation.definition.interpolation"],
+      "settings": {
+        "foreground": "#89ddff"
+      }
+    },
+
+    {
       "name": "Variable, Property, Parameter",
       "scope": [
         "entity.name.label",
