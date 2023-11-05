@@ -496,11 +496,10 @@
     },
 
     {
-      "name": "Keyword - Default, Export",
-      "scope": ["keyword.control.default", "keyword.control.export"],
+      "name": "Keyword - Default",
+      "scope": ["keyword.control.default"],
       "settings": {
-        "foreground": "#7AA2F7",
-        "fontStyle": "italic"
+        "fontStyle": "italic bold"
       }
     },
 
