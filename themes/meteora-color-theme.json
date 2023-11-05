@@ -17,8 +17,6 @@
     "tree.indentGuidesStroke": "#2b2b3b",
     "walkThrough.embeddedEditorBackground": "#08080b",
     "widget.shadow": "#ffffff00",
-    "window.activeBorder": "#0d0f17",
-    "window.inactiveBorder": "#0d0f17",
     // END: Miscellaneous
 
     "activityBar.activeBorder": "#3d59a1",
@@ -366,7 +364,10 @@
     "terminal.ansiBrightBlue": "#7AA2F7",
     "terminal.ansiBrightMagenta": "#BB9AF7",
     "terminal.ansiBrightCyan": "#7dcfff",
-    "terminal.ansiBrightWhite": "#b4bcde"
+    "terminal.ansiBrightWhite": "#b4bcde",
+
+    "window.activeBorder": "#0d0f17",
+    "window.inactiveBorder": "#0d0f17"
   },
   "tokenColors": [
     {
