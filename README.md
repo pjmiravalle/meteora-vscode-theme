@@ -4,7 +4,9 @@
 
 ## 🚧 Disclaimer
 
-This theme is very much in alpha development, and is expected to not look polished for most programming languages at this time. Proceed with caution! 🚧
+Meteora is very much in alpha development, and is expected to be unpolished for most programming languages at this time. Please look at the [supported languages](#📘-language-support) for more information.
+
+> Have any suggestions or feedback on how to make Meteora _even better_? Please consider [contributing](#contributing)!
 
 ## 📘 Language Support
 
@@ -60,6 +62,10 @@ Please keep an eye out on these languages and frameworks having full support in 
 | ![#444B6A](https://place-hold.it/15/444B6A/444B6A?text=+) `#444B6A` | Comments                                |
 | ![#15151B](https://place-hold.it/15/15151B/15151B?text=+) `#15151B` | Editor Background                       |
 | ![#101013](https://place-hold.it/15/101013/101013?text=+) `#101013` | Sidebar, Terminal Background            |
+
+## Contributing
+
+More information on how you can contribute to **Meteora** will be added soon!
 
 ## 🙌 Credits
 
