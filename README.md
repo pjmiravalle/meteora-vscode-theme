@@ -4,6 +4,22 @@
 
 ## Theme
 
+### TypeScript React
+
+![Example - TSX](static/example-tsx.png)
+
+### CSS
+
+![Example - CSS](static/example-tsx.png)
+
+### Rust
+
+![Example - Rust](static/example-rust.png)
+
+### Markdown
+
+![Example - Markdown](static/example-md.png)
+
 ## Installation
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
@@ -29,6 +45,7 @@ The following languages have been tested and are confirmed to have compatibility
 - JavaScript
 - JSON
 - Markdown
+- React
 - Rust
 - Shell
 - TOML
