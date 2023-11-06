@@ -6,19 +6,19 @@
 
 ### TypeScript React
 
-![Example - TSX](static/example-tsx.png)
+![Example - TSX](./static/example-tsx.png)
 
 ### CSS
 
-![Example - CSS](static/example-css.png)
+![Example - CSS](./static/example-css.png)
 
 ### Rust
 
-![Example - Rust](static/example-rust.png)
+![Example - Rust](./static/example-rust.png)
 
 ### Markdown
 
-![Example - Markdown](static/example-md.png)
+![Example - Markdown](./static/example-md.png)
 
 ## Installation
 
