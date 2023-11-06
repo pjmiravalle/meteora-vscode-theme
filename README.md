@@ -1,6 +1,6 @@
 # ☄️ Meteora
 
-**Meteora** is a refined [Visual Studio Code](https://code.visualstudio.com/) theme for those who love elegant dark themes that are easy on the eyes.
+**Meteora** is a refined Visual Studio Code theme for those who love elegant dark themes that are easy on the eyes.
 
 ## 🚧 Disclaimer
 
