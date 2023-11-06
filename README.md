@@ -2,6 +2,15 @@
 
 **Meteora** is a refined Visual Studio Code theme for those who love elegant dark themes that are easy on the eyes.
 
+## Installation
+
+1. Install [Visual Studio Code](https://code.visualstudio.com/)
+2. Launch Visual Studio Code
+3. Choose **Extensions** from menu
+4. Search for `meteora`
+5. Click **Install** to install the theme
+6. From the menu bar click: Code > Preferences > Color Theme > **Meteora**
+
 ## 🚧 Disclaimer
 
 Meteora is very much in alpha development, and is expected to be unpolished for most programming languages at this time. Please look at the [supported languages](#📘-language-support) for more information.
