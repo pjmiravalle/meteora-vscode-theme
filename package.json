@@ -9,6 +9,10 @@
     "vscode": "^1.67.0"
   },
   "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#15151B",
+    "theme": "dark"
+  },
   "homepage": "https://github.com/pjmiravalle/meteora-vscode-theme",
   "repository": {
     "type": "git",
