@@ -40,6 +40,7 @@ Please keep an eye out on these languages and frameworks having full support in 
 - Ruby
 - SCSS
 - SQL
+- Svelte
 - Swift
 - Terraform
 - VUE
