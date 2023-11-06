@@ -10,7 +10,7 @@
 
 ### CSS
 
-![Example - CSS](static/example-tsx.png)
+![Example - CSS](static/example-css.png)
 
 ### Rust
 
