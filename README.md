@@ -43,7 +43,7 @@ Please keep an eye out on these languages and frameworks having full support in 
 - Svelte
 - Swift
 - Terraform
-- VUE
+- Vue
 
 ## 🎨 Color Palette
 
